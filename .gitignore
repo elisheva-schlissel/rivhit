@@ -1,0 +1,18 @@
+# --- .NET ---
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# --- Node / frontend ---
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# --- Env / local ---
+appsettings.*.local.json
+*.log
+
+# --- Task artifacts (not part of the deliverable) ---
+_task.docx

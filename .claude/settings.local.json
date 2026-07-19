@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc -t markdown \"C:\\\\Users\\\\elishevas\\\\Downloads\\\\משימת בית מתכנת Full Stack Developer.docx\")"
+    ]
+  }
+}
